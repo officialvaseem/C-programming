@@ -1,0 +1,8 @@
+malloc
+calloc
+realloc
+free
+
+structure and union
+
+
